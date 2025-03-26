@@ -15,12 +15,14 @@ Clone the repository:
 ```sh
 git clone https://github.com/yourusername/jpg-to-png-go.git
 cd jpg-to-png-go
+```
 
 Usage
 
 Place a .jpg file in the project directory and run:
-
+```sh
 go run main.go
+```
 
 It will convert ornek.jpg (or any specified file) to ornek.png.
 
