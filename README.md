@@ -13,8 +13,8 @@ Make sure you have [Go](https://golang.org/dl/) installed.
 
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/jpg-to-png-go.git
-cd jpg-to-png-go
+git clone https://github.com/ysf-asan/jpg-to-png
+cd jpg-to-png
 ```
 
 Usage
